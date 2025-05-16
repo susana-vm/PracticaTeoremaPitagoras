@@ -18,7 +18,6 @@ public class Principal {
 		t2.hipotenusa();
 		t2.perimetro();
 		
-		// TODO Auto-generated method stub
 
 	}
 
